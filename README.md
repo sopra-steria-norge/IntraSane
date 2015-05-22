@@ -1,5 +1,5 @@
 # IntraSane
-GUI-tweaks for SopraStria intranett
+GUI-tweaks for SopraSteria intranett
 
 Installering
 ------------
