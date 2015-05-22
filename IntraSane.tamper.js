@@ -6,6 +6,7 @@
 // @author       Joachim Lous
 // @match        https://intranet.steria.no/*
 // @require      http://cherne.net/brian/resources/jquery.hoverIntent.minified.js
+// @grant        none
 // ==/UserScript==
 
 var roeNedMegamenyenLitt = function(){
