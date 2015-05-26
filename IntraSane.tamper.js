@@ -6,7 +6,6 @@
 // @author       Joachim Lous
 // @match        https://intranet.steria.no/*
 // @require      http://cherne.net/brian/resources/jquery.hoverIntent.minified.js
-// @grant        none
 // ==/UserScript==
 
 var roeNedMegamenyenLitt = function(){
@@ -21,8 +20,8 @@ var roeNedMegamenyenLitt = function(){
             $(this).removeClass("megamenu-selected-item");
             $(this).children("div.submenupanel").removeClass("submenupanel-show");
             $(this).parent().find(".arrow").hide();
-        });
-    }
-}
+        }
+    );
+};
 
 roeNedMegamenyenLitt();
