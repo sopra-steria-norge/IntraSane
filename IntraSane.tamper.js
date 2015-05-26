@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         IntraSane
-// @namespace    https://github.com/steria/NaviSane
+// @namespace    https://github.com/steria/IntraSane
 // @version      1.0
 // @description  Gui-tweaks for SopraSteria intranett
 // @author       Joachim Lous
