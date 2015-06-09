@@ -27,4 +27,9 @@ var roeNedMegamenyenLitt = function(){
     );
 };
 
+var responsivMegamenyBakgrunn = function(){
+    $("#topmenuBox").css("height","auto");    
+}
+
 roeNedMegamenyenLitt();
+responsivMegamenyBakgrunn();
