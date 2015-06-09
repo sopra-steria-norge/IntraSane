@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         IntraSane
 // @description  Gui-tweaks for SopraSteria intranett
-// @version      1.1
+// @version      1.2
 // @author       Joachim Lous
 // @namespace    https://github.com/steria/IntraSane
 // @homepage     https://github.com/steria/IntraSane
